@@ -18,6 +18,8 @@ Roblox Talent Hub - https://create.roblox.com/talent/creators/117008911
 
 ## 💻 My Work
 
+#### I am good to share code samples for any of these for an application.
+
 ### Door System + Lockdown System  
 **Role:** Scripter  
 A Door System for Arcadia.  
