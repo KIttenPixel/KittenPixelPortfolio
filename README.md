@@ -4,6 +4,8 @@
 
 Hey, it's me, KittenPixel. I have been scripting with Lua for 4+ years. I script clean, modular code using Rojo. I like cats, video games, and board games.
 
+Roblox Talent Hub - https://create.roblox.com/talent/creators/117008911
+
 ---
 
 ## 🔧 Tech Stack
