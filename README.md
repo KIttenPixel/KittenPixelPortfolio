@@ -50,6 +50,14 @@ https://github.com/user-attachments/assets/9b4fdb41-714e-4d82-b002-832bdc115e8a
 
 ---
 
+### Auditorium System 
+**Role:** Scripter  
+An Auditorium System for Arcadia.  
+
+https://github.com/user-attachments/assets/0554c775-9ecf-4e43-a08c-e7d5066d9045
+
+---
+
 ## 💼 Projects
 
 ---
