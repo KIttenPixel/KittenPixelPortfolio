@@ -49,7 +49,7 @@ Supervisors:
 
 Site: Athena, is upcoming, SCPF. We are working hard to release to the public, I hope you enjoy it when we release.
 
-───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+─────────────────────────────────────────────────────────────────────────────────────────
 
 # Arcadia Research Initative
 Jan 2025 - Present
