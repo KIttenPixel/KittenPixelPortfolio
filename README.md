@@ -20,6 +20,17 @@ Roblox Talent Hub - https://create.roblox.com/talent/creators/117008911
 
 #### I am good to share code samples for any of these for an application.
 
+# SCP: SL Work
+
+### Custom Items
+A plugin for Pill-Server.
+https://youtu.be/JM6bLXBJPAQ - Showcase video.
+The random hints' disappearance is currently fixed.
+
+### More to come.
+
+# Roblox Work
+
 ### Door System + Lockdown System  
 **Role:** Scripter  
 A Door System for Arcadia.  
